@@ -16,13 +16,13 @@ public class Pajaro extends Mascota {
 
     @Override
     public void alimentar() {
-    System.out.println("El Pajaro esta comiendo");
+    System.out.println("El Pajaro esta comiendo frutas");
         
     }
 
     @Override
     public void cuidar() {
-    System.out.println("El Pajaro esta cuidando la casa");
+    System.out.println("El Pajaro esta cuidando su nido");
         
     }
 

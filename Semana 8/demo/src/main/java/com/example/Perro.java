@@ -15,7 +15,7 @@ public class Perro extends Mascota {
 
     @Override
     public void alimentar() {
-    System.out.println("El perro esta comiendo");
+    System.out.println("El perro esta comiendo croquetas");
         
     }
 

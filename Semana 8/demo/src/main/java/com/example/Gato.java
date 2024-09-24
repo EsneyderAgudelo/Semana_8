@@ -15,13 +15,13 @@ public class Gato extends Mascota{
 
     @Override
     public void alimentar() {
-    System.out.println("El gato esta comiendo");
+    System.out.println("El gato esta tomando su leche");
         
     }
 
     @Override
     public void cuidar() {
-    System.out.println("El gato esta cuidando la casa");
+    System.out.println("Estan bañando al gato");
         
     }
 

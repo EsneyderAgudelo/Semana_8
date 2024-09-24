@@ -14,13 +14,13 @@ public class Tortuga extends Mascota{
 
     @Override
     public void alimentar() {
-    System.out.println("La tortuga esta comiendo");
+    System.out.println("La tortuga se esta comiendo un tomate");
         
     }
 
     @Override
     public void cuidar() {
-    System.out.println("La tortuga esta cuidando la casa");
+    System.out.println("La tortuga esta cuidando su territorio");
         
     }
 
